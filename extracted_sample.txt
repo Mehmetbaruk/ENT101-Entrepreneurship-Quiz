@@ -1,0 +1,38 @@
+First 3 extracted questions:
+
+Q1: One of the most significant economic developments in recent business history relates to the ________.
+  A) growth of blue-chip corporations
+  B) development of Pacific Rim countries
+  C) entrepreneurial spirit
+  D) additional employment opportunities offered by government institutions
+  Correct: C
+  Turkish: Son iş tarihi boyunca en önemli ekonomik gelişmelerden biri girişimcilik ruhuyla ilgilidir. Girişimcilik ruhu, son dönemin en önemli ekonomik gelişmesi olarak tanımlanmıştır.
+  English: One of the most significant economic developments in recent business history relates to the entrepreneurial spirit. The entrepreneurial spirit has been identified as the most important economic development in recent times.
+  Source: Chapter 1: Introduction - "The entrepreneurial spirit - the most significant economic development in recent history"
+  Chapter: Chapter 1 - The Foundations of Entrepreneurship
+  Document: Chapter 1 - The Foundations of Entrepreneurship.pdf
+
+Q2: The profile of an entrepreneur includes ________.
+  A) a desire for responsibility and moderate risk
+  B) confidence in the ability to succeed and determination
+  C) a high level of energy, a desire for immediate feedback and a future orientation
+  D) All the above
+  Correct: D
+  Turkish: Bir girişimcinin profilinde sorumluluk arzusu, ılımlı risk tercihi, başarabileceğine dair güven, kararlılık, yüksek enerji seviyesi, anında geri bildirim arzusu ve gelecek odaklılık bulunur. Tüm seçenekler girişim ci özelliklerindendir.
+  English: The profile of an entrepreneur includes a desire for responsibility, moderate risk preference, confidence in ability to succeed, determination, high energy levels, desire for immediate feedback, and future orientati on. All options are entrepreneurial characteristics.
+  Source: Chapter 1: Characteristics of Entrepreneurs - Complete profile traits
+  Chapter: Chapter 1 - The Foundations of Entrepreneurship
+  Document: Chapter 1 - The Foundations of Entrepreneurship.pdf
+
+Q3: All of the following are characteristics of the typical entrepreneur except ________.
+  A) confidence in his/her ability to succeed
+  B) value of money over achievement
+  C) desire for immediate feedback
+  D) a future orientation
+  Correct: B
+  Turkish: Tipik bir girişimcinin özellikleri arasında başarılı olmaya güven, anında geri bildirim arzusu ve gelecek odaklılık bulunurken, girişimciler başarıya paradan daha çok değer verir. Bu nedenle paraya başarıdan daha çok değer vermek (B) tipik bir özellik değildir.
+  English: Typical entrepreneur characteristics include confidence in ability to succeed, desire for immediate feedback, and future orientation, but entrepreneurs value achievement over money. Therefore, valuing money over achievement (B) is NOT a typical characteristic.
+  Source: Chapter 1: Characteristics of Entrepreneurs - What entrepreneurs value
+  Chapter: Chapter 1 - The Foundations of Entrepreneurship
+  Document: Chapter 1 - The Foundations of Entrepreneurship.pdf
+
